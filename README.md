@@ -4,7 +4,7 @@
 
 Prof. Bruno Zolotareff, apresenta: 
 
-Vamos aprender Llama: 
+Vamos aprender Llama: Agente Inteligente com RAG e MCP
 
 <img width="88px" height="108px" src="Ollama.png" />  
 

@@ -12,6 +12,6 @@ Vem comigo!!!
 
 Programação 
 
-> terça 20/10 - Escola de IA na Prática (Parte 1): Do Zero ao Seu Primeiro Agente com Llama, CrewAI e Python.<br>
+> terça 20/10 - Escola de IA na Prática (Parte 1): Do Zero ao Seu Primeiro Agente com Llama, CrewAI e Python.<br> https://colab.research.google.com/drive/1a0xSyUJg_aCMPWfbvyTZ0Zt26ZflBs8o?usp=sharing <br>
 > quarta 21/10 - Escola de IA na Prática (Parte 2): Orquestrando Agente Inteligente com Llama e CUDA. <br>
 > quinta 22/10 - Quantum Machine Learning com Agentes Autônomos na Prática: Classificação de Dados Espaciais com Python e CrewAI.

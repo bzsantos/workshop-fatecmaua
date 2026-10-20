@@ -10,6 +10,8 @@ Vamos aprender Llama: Agente Inteligente com RAG e MCP
 
 Vem comigo!!!
 
+https://gemini.google.com/share/45d0342271bd?social_preview=false&skid=da3a035d-ca53-4fab-bef6-ba001e37f562
+
 Programação 
 
 > terça 20/10 - Escola de IA na Prática (Parte 1): Do Zero ao Seu Primeiro Agente com Llama, CrewAI e Python.<br> https://colab.research.google.com/drive/1a0xSyUJg_aCMPWfbvyTZ0Zt26ZflBs8o?usp=sharing <br>

@@ -6,8 +6,6 @@ Prof. Bruno Zolotareff, apresenta:
 
 Vamos aprender Llama: Agente Inteligente com RAG e MCP
 
-https://gemini.google.com/share/45d0342271bd?social_preview=false&skid=da3a035d-ca53-4fab-bef6-ba001e37f562
-
 <img width="88px" height="108px" src="Ollama.png" />  
 
 Vem comigo!!!
